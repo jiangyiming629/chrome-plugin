@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "JSON Formatter",
+  "description": "Format, validate and minify JSON in a popup.",
+  "version": "1.0.0",
+  "permissions": ["storage"],
+  "action": {
+    "default_title": "JSON Formatter",
+    "default_popup": "popup.html"
+  }
+}
